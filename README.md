@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Before you run project you should install some packagaes 
+
+( Mui : " npm install @mui/material @emotion/react @emotion/styled " ,
+" npm install @mui/material @mui/styled-engine-sc styled-components " , 
+" npm install @fontsource/roboto " , 
+" npm install @mui/icons-material ")
+
+( react-icons : " npm install react-icons --save " )
+
+( amChart : " npm install @amcharts/amcharts5
+npm install @amcharts/amcharts5-geodata
+npm install @amcharts/amcharts5-fonts " )
+
+( Framer Motion : " npm install framer-motion " )
+
+
+if there is any thing missing , i wish you cantact with me in my gmail " kerolouis.makram@gmail.com "
+
 ### `npm start`
 
 Runs the app in the development mode.\
